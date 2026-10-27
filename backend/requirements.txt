@@ -1,0 +1,11 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.34,<1
+sqlalchemy>=2.0,<3
+psycopg[binary]>=3.2,<4
+redis>=5,<7
+rq>=2,<3
+httpx>=0.28,<1
+python-multipart>=0.0.20
+Pillow>=11,<13
+reportlab>=4.3,<5
+boto3>=1.36,<2
